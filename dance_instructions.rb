@@ -39,12 +39,12 @@ end
 
 def gangnam_style
 starting_stance
-bust_a_move
 base_footwork
+skip_step("right foot")
 bob_the_reins
-skip_step
-lasso 
-skip_step
+skip_step("left foot")
+lasso
+bust_a_move
 end
 
 gangnam_style
