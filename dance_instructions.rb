@@ -46,5 +46,3 @@ skip_step("left foot")
 lasso
 bust_a_move
 end
-
-gangnam_style
