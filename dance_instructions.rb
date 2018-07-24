@@ -13,7 +13,7 @@ def base_footwork
   puts "Finishing with a small skip step backward.()"
 end 
 
-def skip_step()
+def skip_step(starting_foot)
   puts "Skip a step (lower, bounce, briefly)"
 end
 
